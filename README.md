@@ -1,5 +1,11 @@
 # mobius-robotics.github.io
 
+<p align="center">
+  <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank">
+    <img src="https://github.com/Mobius-Robotics/mobius-robotics.github.io/blob/new/src/images/logo.png" alt="Mobius Logo" style="width:200px;height:auto;">
+  </a>
+</p>
+
 **The Loop of Progress Starts Here!** This repository contains the code for the [mobius-robotics.github.io](https://mobius-robotics.github.io/) website, showcasing our Robotics Team's journey and achievements. The site highlights what we do, the projects we've worked on, the events we've participated in, our robots, and a gallery showcasing team photos. Key sections include: 
  
 - **Eurobot**: Our journey in the competition.  
